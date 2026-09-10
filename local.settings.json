@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "AzureFunctionsJobHost:logging:logLevel:DurableTask": "Warning",
+    "AzureFunctionsJobHost:logging:logLevel:Host.Triggers": "Warning",
+    "AzureFunctionsJobHost:logging:logLevel:Host.Results": "Warning",
+    "AzureFunctionsJobHost:logging:logLevel:Azure.Core": "Warning",
+    "AzureFunctionsJobHost:logging:logLevel:Azure.Identity": "Warning",
+    "Microsoft.Azure.WebJobs.Script.WebHost.Middleware.SystemTraceMiddleware": "None"
+  }
+}

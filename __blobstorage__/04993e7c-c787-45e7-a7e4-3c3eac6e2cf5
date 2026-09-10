@@ -1,0 +1,85 @@
+{
+  "masterKey": {
+    "name": "master",
+    "value": "XD5r3e7xTY2xsPANTDbrlwViIOCPQgGXwaWsqzjn4rrLAzFuGjVofA==",
+    "encrypted": false
+  },
+  "functionKeys": [
+    {
+      "name": "default",
+      "value": "sHCXouh-nnvCe3L0-Y_opA_E2ZBpZGXpioGBo1hUBnwlAzFuy2bVEg==",
+      "encrypted": false
+    }
+  ],
+  "systemKeys": [],
+  "hostName": "localhost:7071",
+  "instanceId": "000000000000000000000000340CC488",
+  "source": "runtime",
+  "decryptionKeyId": ""
+}{
+  "masterKey": {
+    "name": "master",
+    "value": "XD5r3e7xTY2xsPANTDbrlwViIOCPQgGXwaWsqzjn4rrLAzFuGjVofA==",
+    "encrypted": false
+  },
+  "functionKeys": [
+    {
+      "name": "default",
+      "value": "sHCXouh-nnvCe3L0-Y_opA_E2ZBpZGXpioGBo1hUBnwlAzFuy2bVEg==",
+      "encrypted": false
+    }
+  ],
+  "systemKeys": [
+    {
+      "name": "durabletask_extension",
+      "value": "58NzTWrW0FChfPD3Op7Qi3qDs6QGSlYi-IZd2DT3a9SdAzFuePIozg==",
+      "encrypted": false
+    }
+  ],
+  "hostName": "localhost:7071",
+  "instanceId": "000000000000000000000000340CC488",
+  "source": "runtime",
+  "decryptionKeyId": ""
+}{
+  "masterKey": {
+    "name": "master",
+    "value": "fkpO8-O0SNZyBOaShrt9s9VuqLknszX0cOuX-1isnDSzAzFum_L8dw==",
+    "encrypted": false
+  },
+  "functionKeys": [
+    {
+      "name": "default",
+      "value": "ZFVXw4td5fDIqwatIwLwW6MIcKXiM_wdzwajgzy7HTXrAzFuGP33sQ==",
+      "encrypted": false
+    }
+  ],
+  "systemKeys": [],
+  "hostName": "localhost:7071",
+  "instanceId": "000000000000000000000000340CC488",
+  "source": "runtime",
+  "decryptionKeyId": ""
+}{
+  "masterKey": {
+    "name": "master",
+    "value": "fkpO8-O0SNZyBOaShrt9s9VuqLknszX0cOuX-1isnDSzAzFum_L8dw==",
+    "encrypted": false
+  },
+  "functionKeys": [
+    {
+      "name": "default",
+      "value": "ZFVXw4td5fDIqwatIwLwW6MIcKXiM_wdzwajgzy7HTXrAzFuGP33sQ==",
+      "encrypted": false
+    }
+  ],
+  "systemKeys": [
+    {
+      "name": "durabletask_extension",
+      "value": "e8gQFKR3e7cAamZbka8JZVs_K6_kcDc3Oq2CVQ13aHgVAzFuRFuDZg==",
+      "encrypted": false
+    }
+  ],
+  "hostName": "localhost:7071",
+  "instanceId": "000000000000000000000000340CC488",
+  "source": "runtime",
+  "decryptionKeyId": ""
+}{}{"OwnerId":"811c9dc5-0000-0000-0000-000000000000","DesiredSwapId":null}{}
