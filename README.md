@@ -1,15 +1,13 @@
-![.Net](http://img.shields.io/badge/-v10.0-008999?style=plastic&logo=.net&logoColor=ffffff) ![Azure](http://img.shields.io/badge/Azure-Functions-008999?style=plastic&logo=.net&logoColor=ffffff) [![build](https://github.com/anthueeccel/ticket-dfunctions-azure/actions/workflows/dotnet.yml/badge.svg)](https://github.com/anthueeccel/ticket-dfunctions-azure/actions/workflows/dotnet.yml) ![last_commit](https://img.shields.io/github/last-commit/anthueeccel/ticket-dfunctions-azure) ![license](https://img.shields.io/github/license/anthueeccel/ticket-dfunctions-azure)
-
-## Azure Durable Functions Study Project
-
-## TicketDurableFunctions
+![.Net](http://img.shields.io/badge/-v10.0-008999?style=flat&logo=.net&logoColor=ffffff) ![Azure](http://img.shields.io/badge/Azure-Functions-008999?style=flat&logo=azure&logoColor=ffffff) [![build](https://github.com/anthueeccel/ticket-dfunctions-azure/actions/workflows/dotnet.yml/badge.svg)](https://github.com/anthueeccel/ticket-dfunctions-azure/actions/workflows/dotnet.yml) ![last_commit](https://img.shields.io/github/last-commit/anthueeccel/ticket-dfunctions-azure) ![license](https://img.shields.io/github/license/anthueeccel/ticket-dfunctions-azure)
 
 ## Overview
 
 This project simulates a **support-ticket routing system** built on **Azure Durable Functions**
 (.NET isolated worker, C#). It is purely a **study exercise** — there is no real email
 integration. Analyst notifications and replies are simulated through HTTP endpoints, and all
-state is persisted to **Azurite** (the local Azure Storage emulator) at zero cost. No real secret expose.
+state is persisted to **Azurite** (the local Azure Storage emulator) at zero cost. No real secrets are exposed.
+
+**Project name:** TicketDurableFunctions
 
 The orchestration exercises three core Durable Functions patterns:
 
